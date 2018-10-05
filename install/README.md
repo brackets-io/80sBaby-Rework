@@ -1,3 +1,3 @@
 # Install Instructions
 
-![HTML Screenshot](https://github.com/xRealNeon/80sBaby-Rework/blob/gh-pages/gif.gif)
+![HTML Screenshot](https://raw.githubusercontent.com/xRealNeon/80sBaby-Rework/gh-pages/gif.gif)
