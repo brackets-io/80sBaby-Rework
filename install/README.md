@@ -9,7 +9,7 @@ https://github.com/xRealNeon/80sBaby-Rework/archive/master.zip
 ```
 ------
 
-[![Gif](https://raw.githubusercontent.com/xRealNeon/80sBaby-Rework/gh-pages/gif.gif)](https://youtube.com)
+[![Gif](https://raw.githubusercontent.com/xRealNeon/80sBaby-Rework/gh-pages/gif.gif)](https://youtu.be/VT9n-xGwB6w)
 
 ------
 
