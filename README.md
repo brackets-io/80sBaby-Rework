@@ -1,6 +1,8 @@
 80's Baby Theme for Brackets (Rework)
 ============================
 
+------
+
 ## Install
 [Install Instructions](https://xrealneon.github.io/80sBaby-Rework/install "Install Instructions")
 ```
