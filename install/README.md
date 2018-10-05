@@ -1,7 +1,7 @@
 # Install Instructions
 
 ### Paste this in the Brackets Plugin Manager
-
+------
 ```
 https://github.com/xRealNeon/80sBaby-Rework/archive/master.zip
 ```
